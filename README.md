@@ -1,5 +1,8 @@
 # U3 - A3: Pruebas Unitarias en Mini-Proyecto Flask
 
+![CI](https://github.com/miguelberumen/U4_A2_Integracion_Continua/actions/workflows/ci.yml/badge.svg)
+[![Coverage](https://codecov.io/gh/miguelberumen/U4_A2_Integracion_Continua/branch/main/graph/badge.svg)](https://codecov.io/gh/miguelberumen/U4_A2_Integracion_Continua)
+
 En esta actividad realicé pruebas unitarias utilizando el módulo `unittest` de Python para comprobar que funcionaran correctamente los modelos, las rutas y la API de mi aplicación de videojuegos desarrollada con Flask.
 
 También utilicé `setUp()` y `tearDown()` para preparar y limpiar el entorno antes y después de cada prueba, evitando que los resultados de una prueba afectaran a las demás.
